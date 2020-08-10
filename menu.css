@@ -1,0 +1,144 @@
+
+.menu{
+display: block;
+list-style: none;
+margin: 0;
+padding:0;
+
+}
+
+.menu li {
+float: left;
+padding: 7px 3px 3px 7px;
+}
+
+.menu a:hover{
+background-color:#33CC33;
+
+}
+
+.menu a:link {
+display: block;
+width: 150px;
+text-align: center;
+background-color: green;
+border: 2px outset;
+padding: 5px;
+color: #fff;
+border-radius:10px;
+}
+
+.menu a:visited{
+color: #fff;
+}
+
+.login{
+position:absolute;
+right:605px;
+top:40%;
+padding:10px;
+}
+
+.rejestracja{
+font-size:15px;
+
+}
+
+.elo{
+margin:35px 0 10px 40px;
+}
+
+.nag{
+text-align:center;
+clear:right;
+margin: 78px 0 0 0;
+}
+
+.szukaj{
+float:right;
+background:none;
+border:none;
+}
+
+.szukaj a:visited{
+color:#000;
+}
+
+.rmenu{width:450px;
+background:none;
+border:none;
+}
+
+.lista{
+font-size:15pt;
+font-weight:bold;
+width:420px;
+clear:left;
+list-style: none;
+display: block;
+}
+
+summary {
+padding: 5px;
+width: 450px;
+background:#33CC33;
+border-radius: 10px;
+cursor: pointer;
+border:solid;
+}
+
+details ul{
+background:none;
+border:none;
+}
+
+.lista li{
+text-align:center;
+border:solid;
+right:41px;
+width:456px;
+position:relative;
+background:#33CC33;
+border-radius:10px;
+margin:3px 0;
+}
+
+.lista li a:hover{
+color:white;
+background:green;
+display:block;
+}
+
+.lista a:link{
+padding:4px 0;
+display:block;
+border-radius:10px
+}
+
+#button{
+position:fixed;
+background-color:yellow;
+border:solid;
+border-radius:10px 0 0 10px;
+right:0;
+padding:4px;
+top:25%;
+border-color:#fff;
+color:#000;
+}
+
+#button a:visited{
+color:#000;
+}
+
+.rej a:visited{
+color:#000;
+}
+
+
+
+
+
+
+
+
